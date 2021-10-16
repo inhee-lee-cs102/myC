@@ -1,5 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello, World!\n");
+ 
+  float numb;
+  int i;
+  char b;
+  
+    printf("%d", numb);
+    printf("%f", i);
+    printf("%d", b);
 }
